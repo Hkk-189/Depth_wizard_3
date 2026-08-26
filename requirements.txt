@@ -1,0 +1,10 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+python-multipart>=0.0.9
+torch>=2.1
+transformers>=4.40
+opencv-python-headless>=4.9
+numpy>=1.26
+Pillow>=10.0
+rasterio>=1.3
+pydantic>=2.5
